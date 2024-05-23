@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(40, 40, 40) ;
+    margin: 11px;
+}
+nav  {
+    text-align: center;
+    margin: 10px;
+}
+nav a  {
+    text-decoration: none; 
+    border: solid 3px black;
+    margin: 10px;
+    padding: 7px;
+    color:black;
+    border-radius: 5px;
+}
+main img {
+    text-align: center;
+}
